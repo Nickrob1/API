@@ -1,0 +1,82 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Stormtrooper",
+      "precio": "60,00",
+      "imagen": "image 3"
+    },
+    {
+      "id": "2",
+      "nombre": "Game Boy Classic",
+      "precio": "30,00",
+      "imagen": "image 2"
+    },
+    {
+      "id": "3",
+      "nombre": "Stormtroper",
+      "precio": "40,00",
+      "imagen": "image 3"
+    },
+    {
+      "id": "4",
+      "nombre": "Game Boy Classic",
+      "precio": "40,00",
+      "imagen": "image 2"
+    },
+    {
+      "id": "5",
+      "nombre": "Game Boy Classic",
+      "precio": "20,00",
+      "imagen": "image 2"
+    },
+    {
+      "id": "6",
+      "nombre": "Stormtroper",
+      "precio": "10,00",
+      "imagen": "image 3"
+    },
+    {
+      "id": "7",
+      "nombre": "Stormtrooper",
+      "precio": "60,00",
+      "imagen": "image 3"
+    },
+    {
+      "id": "8",
+      "nombre": "Game Boy Classic",
+      "precio": "30,00",
+      "imagen": "image 2"
+    },
+    {
+      "id": "9",
+      "nombre": "Stormtroper",
+      "precio": "40,00",
+      "imagen": "image 3"
+    },
+    {
+      "id": "10",
+      "nombre": "Game Boy Classic",
+      "precio": "40,00",
+      "imagen": "image 2"
+    },
+    {
+      "id": "11",
+      "nombre": "Game Boy Classic",
+      "precio": "20,00",
+      "imagen": "image 2"
+    },
+    {
+      "id": "12",
+      "nombre": "Stormtroper",
+      "precio": "10,00",
+      "imagen": "image 3"
+    },
+    {
+      "id": "aa74",
+      "nombre": "Gameboy",
+      "precio": "90,00",
+      "imagen": "image 3"
+    }
+  ]
+}
